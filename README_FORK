@@ -1,0 +1,8 @@
+
+
+I make a new fork for adding PreAuth module in OpenFire.
+See more in: http://wiki.zimbra.com/wiki/Preauth#Sample_Java_code_for_computing_the_preauth_value
+Features of this module:
+
+    Allow another web, client,... can login OpenFire without reinput username and password if user is authenticated.
+
